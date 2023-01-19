@@ -16,7 +16,7 @@ web3
 dotenv
 ```
 
-Add your credentials to the ```.env```file.
+Add your credentials to the ```.env```file. (update the template txt and save as all files, with name ".env")
 
 You need an Ethereum address and private key.
 For Sepolia the chain Id is 11155111.
